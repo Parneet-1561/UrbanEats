@@ -31,7 +31,7 @@ Online Food Ordering System Website using PHP, SQL, HTML, JavaScript & CSS. Live
 
 ## System Description and Functions
 **Live Demo:** http://food.kajadhav.me<br/>
-<img src="https://github.com/kaushikjadhav01/Online-Food-Ordering-Web-App/blob/master/screenshots/99-banner.png"><br/>
+
 
 **Admin Creds:** <br/>
 Admin Login & Password (You can change this in phpmyadmin):<br/>
