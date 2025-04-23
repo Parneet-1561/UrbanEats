@@ -8,7 +8,7 @@ Written by: 	Matt Huggins - https://github.com/mhuggins/jquery-countTo
 		options = options || {};
 
 		return $(this).each(function () {
-			// set options for current element
+			// these are options for current element
 			var settings = $.extend({}, $.fn.countTo.defaults, {
 				from:            $(this).data('from'),
 				to:              $(this).data('to'),
@@ -17,7 +17,7 @@ Written by: 	Matt Huggins - https://github.com/mhuggins/jquery-countTo
 				decimals:        $(this).data('decimals')
 			}, options);
 
-			// how many times to update the value, and how much to increment the value on each update
+			// the number of times the value is to be updated, and how much to increment the value on each update
 			var loops = Math.ceil(settings.speed / settings.refreshInterval),
 				increment = (settings.to - settings.from) / loops;
 
