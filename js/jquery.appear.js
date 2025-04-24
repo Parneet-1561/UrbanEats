@@ -52,6 +52,7 @@
 				}
 
 				//is the element inside the visible window?
+				//adding js code
 				var a = w.scrollLeft();
 				var b = w.scrollTop();
 				var o = t.offset();
