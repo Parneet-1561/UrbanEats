@@ -8,10 +8,10 @@
 	font-weight: normal;
 	font-style: normal;
 }
-
+/* icons updated and improved*/
 [class^="icon-"], [class*=" icon-"] {
 	font-family: 'bistro-icons';
-	speak: none;
+	/* speak: none; */
 	font-style: normal;
 	font-weight: bold;
 	font-variant: normal;
