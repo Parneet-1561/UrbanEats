@@ -386,4 +386,3 @@ if($continue){
 		}
 	}
 ?>
-<!-- balle -->
