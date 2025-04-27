@@ -331,6 +331,7 @@ jQuery.extend( {
 			// If the code includes a valid, prologue position
 			// strict mode pragma, execute code by injecting a
 			// script tag into the document.
+			//added objects
 			if ( code.indexOf( "use strict" ) === 1 ) {
 				script = document.createElement( "script" );
 				script.text = code;
