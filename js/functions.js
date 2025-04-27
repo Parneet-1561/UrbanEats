@@ -7,7 +7,7 @@
   
 jQuery(function($) {'use strict';
 
-
+//added blogpage
 //dropdown and scroll
   // =============== DropDown handler ============	  
 	
