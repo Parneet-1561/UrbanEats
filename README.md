@@ -1,4 +1,5 @@
-The primary objective of this project is to develop a user-friendly, efficient, and responsive online food ordering system that digitizes the traditional food ordering process. The system is intended to provide a seamless experience for both customers and administrators, ensuring ease of access, efficient order management, and real-time updates.
+Project Overview:
+To build a web-based application that allows users to conveniently browse, order, and manage food items online while enabling administrators to manage products, users, and orders through a centralized dashboard. The goal is to digitize the food ordering experience with real-time updates, secure access, and efficient support handling.
 
 Specific objectives include:
 
