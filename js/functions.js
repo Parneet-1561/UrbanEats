@@ -7,8 +7,8 @@
   
 jQuery(function($) {'use strict';
 
-
-
+//added blogpage
+//dropdown and scroll
   // =============== DropDown handler ============	  
 	
 	 // Menu Toggle Transition 

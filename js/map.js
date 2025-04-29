@@ -3,7 +3,7 @@ $.log = function(message){
   $logger.html($logger.html() + "\n * " + message );
 }
 //mapped
-
+//added cart feature
 $(function(){
         var options = {
           map: "#map",
