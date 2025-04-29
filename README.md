@@ -1,3 +1,22 @@
+The primary objective of this project is to develop a user-friendly, efficient, and responsive online food ordering system that digitizes the traditional food ordering process. The system is intended to provide a seamless experience for both customers and administrators, ensuring ease of access, efficient order management, and real-time updates.
+
+Specific objectives include:
+
+1. Simplify the Food Ordering Process:
+Allow customers to browse, search, and filter food items easily from a digital menu and place orders without visiting a physical restaurant.
+
+2. Enable Real-Time Cart and Checkout Management:
+Let users add items to a cart, update quantities, remove items, and complete purchases with shipping details—all through an intuitive interface.
+
+3. Support Order Tracking and Management:
+Provide users the option to view their order history, cancel pending orders, and receive updates regarding shipping or refunds.
+
+4. Secure Authentication:
+Ensure secure login for both users and admins to protect sensitive user and order data.
+
+5. Scalable and Maintainable Codebase:
+Build the system using modular PHP, organized database structure, and standard web technologies to support future enhancements or integrations.
+
 
 # Online-Food-Ordering-Web-App
 Online Food Ordering System Website using PHP, SQL, HTML, JavaScript & CSS. Live Demo at: https://parneet-1561.github.io/UrbanEats/
