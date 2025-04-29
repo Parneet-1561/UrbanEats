@@ -4,6 +4,7 @@
  */
 
 /* clearfix */
+/*carousal updation done*/
 .owl-carousel .owl-wrapper:after {
 	content: ".";
 	display: block;
