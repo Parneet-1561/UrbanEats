@@ -429,3 +429,12 @@ include 'includes/connect.php';
 		}
 	}
 ?>
+// header add in the reposirtary and replace the above php code in the file you want to use it. You can add your own css, js and materialize.min.js files in the same directory. Remember to include materialize
+//  css and js files in your head section of your HTML file. Also, make sure to change the database connection details in the database.php file. If you need help with any other issues, feel free to ask. I'm here to help!
+  
+//  For the admin panel, you would need to create a separate HTML file, a separate CSS file, and a separate PHP file. In the admin HTML file, you would create a login form with validation using jQuery and Materialize CSS. After the user logs in, you would redirect them to the admin panel. In the admin PHP file, you would check if the user is logged in and display the admin panel's content. If the user is not logged in, you would redirect them to the login page. In the admin panel, you would use the data-tables plugin to display the items and allow the admin to modify and add items. Remember to add your own CSS, JS, and materialize.min.js files in the same directory. Also, make sure to include materialize css and js files in your head section of your HTML file. If you need help with any other issues, feel free to ask. I'm here to help!
+
+// For the admin panel, you would need to create a separate HTML file, a separate CSS file, and a separate PHP file. In the admin HTML file, you would create a login form with validation using jQuery and Materialize CSS. After the user logs in, you would redirect them to the admin panel. In the admin PHP file, you would check if the user is logged in and display the admin panel's content. If the user is not logged in, you would redirect them to the
+//  login page. In the admin panel, you would use the data-tables plugin to display the items and allow the admin to modify and add items. Remember to add your own CSS, JS, and materialize.min.js files in the same directory. Also, make sure to include materialize css and js files in your head section of your HTML file. If you need help with any other issues, feel free to ask. I'm here to help!
+
+// For the admin panel,

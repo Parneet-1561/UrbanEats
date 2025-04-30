@@ -313,3 +313,4 @@ include 'includes/wallet.php';
 		}
 	}
 ?>
+<!-- qwerty -->
