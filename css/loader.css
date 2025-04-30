@@ -4,7 +4,7 @@
 	width:97px;
 }
 
-.cssload-contain *, .cssload-container *:before, .cssload-container *:after {
+.cssload-container *, .cssload-container *:before, .cssload-container *:after {
 	box-sizing: border-box;
 		-o-box-sizing: border-box;
 		-ms-box-sizing: border-box;
