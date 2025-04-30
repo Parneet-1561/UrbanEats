@@ -1,9 +1,4 @@
- //JavaScript Document
-
-
-
-   
-//Main Slider Home 
+ //Main Slider Home 
      var revapi;
 		revapi = jQuery("#rev_slider").revolution({
 			sliderType:"standard",
