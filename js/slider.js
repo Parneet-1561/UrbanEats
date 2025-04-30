@@ -1,6 +1,6 @@
  //JavaScript Document
 
-//main slider
+//main slider added
 
    
 //Main Slider Home 
